@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "relay-module-8-channel")(type "KiCad")(uri "${KIPRJMOD}/relay-module-8-channel.kicad_sym")(options "")(descr ""))
+  (lib (name "solenoid-valve")(type "KiCad")(uri "${KIPRJMOD}/solenoid-valve.kicad_sym")(options "")(descr ""))
+  (lib (name "pump-hydric")(type "KiCad")(uri "${KIPRJMOD}/pump-hydric.kicad_sym")(options "")(descr ""))
+)
